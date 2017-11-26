@@ -3,16 +3,33 @@ h1 {
   text-align: center;
 }
 
+p {
+  color: white;
+  font-size: 18px;
+}
+
 h2 {
-  color: brown;
+  color: black;
   text-align: center;
 }
 
 h3 {
   color: red;
+  text-align: center;
 }
 
 h4 {
-  color: gray;
+  color: blue;
+  font-size: 25px;
   text-align: center;
+}
+
+h5{
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+body {
+  background-image: url("http://3.bp.blogspot.com/-QZomGmyvwFU/TkVOC1K7ESI/AAAAAAAAJE8/zn93mQmz48Q/s1600/Studio+City+.jpg");
 }
